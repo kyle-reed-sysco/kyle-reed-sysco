@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning when to say the phrase "Go big or go home."
 - 💞️ I’m looking to collaborate on automating processes.
 - 📫 How to reach me kyle.reed@sysco.com
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've never broken a bone. 
 
 <!---
